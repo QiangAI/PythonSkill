@@ -10,4 +10,5 @@ print(dir(lst))
 print(dir(tpl))
 print(dir(fle))
 
+
 #可循环对象，都有一个—__iter__方法
