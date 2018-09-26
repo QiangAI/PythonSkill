@@ -11,3 +11,5 @@ exec("class A:pass",globals(),locals())
 o=A()
 print(o)
 print(globals())
+
+#代码修改
